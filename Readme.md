@@ -19,4 +19,5 @@ Results rounded to the nearest percent.
 SGD Classifier: 11%
 Latent Semantic Indexing & SGD Classifier: 13%
 Latent Dirichlet Analysis & SGD Classifier: 15%
+By exploring the forums at Kaggle it was discovered that the testing data set contained about 50% questions exactly the same as the training set. Armed with this knowledge most competitors were seeing approximately a 50% increase in scores compared to scores tested against a non-overlapping validation set. 
 
