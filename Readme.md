@@ -1,6 +1,6 @@
 #A Real-world Introduction to Topic Modeling and Text Mining
 
-This is my final group project from data science class I took in spring 2015 in University of Minnesota.  
+This is my final group project from data science class I took in spring 2015 at the University of Minnesota.  
 It was taken from a past Kaggle competition, [Facebook Recruiting III - Keyword Extraction](https://www.kaggle.com/c/facebook-recruiting-iii-keyword-extraction)
 
 ##Preprocessing
